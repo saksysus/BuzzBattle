@@ -113,9 +113,12 @@ Provides integrated buttons, display, buzzer, sensors, and expansion interfaces,
 
 ## 👩‍💻 Author
 
-**Sakshi Gupta**
-Automation & Robotics Engineering
+**Sakshi Gupta**  
+Automation & Robotics Engineering Student  
+Passionate about Industrial Automation, Embedded Systems, IoT, and Robotics.
 
+- GitHub: https://github.com/saksysus
+- LinkedIn: https://www.linkedin.com/in/saksysus/
 ---
 
 ⭐Contributions, suggestions, and feedback are always welcome.
